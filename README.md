@@ -46,6 +46,6 @@ Il ne doit pas être utilisé pour contourner, exploiter ou accéder à des serv
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/tlbox59/nitrogen
+git clone https://github.com/tlbox59/nitrogen.git
 cd nitrogen
 python nitrogen.py
